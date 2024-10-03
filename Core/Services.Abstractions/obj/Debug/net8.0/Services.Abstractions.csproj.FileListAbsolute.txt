@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Web API Project\Core\Services.Abstractions\bin\Debug\net8.0\Services.Abstractions.deps.json
+C:\Users\user\Desktop\Web API Project\Core\Services.Abstractions\bin\Debug\net8.0\Services.Abstractions.dll
+C:\Users\user\Desktop\Web API Project\Core\Services.Abstractions\bin\Debug\net8.0\Services.Abstractions.pdb
+C:\Users\user\Desktop\Web API Project\Core\Services.Abstractions\bin\Debug\net8.0\Shared.dll
+C:\Users\user\Desktop\Web API Project\Core\Services.Abstractions\bin\Debug\net8.0\Shared.pdb
+C:\Users\user\Desktop\Web API Project\Core\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Web API Project\Core\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Web API Project\Core\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Web API Project\Core\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.AssemblyInfo.cs
+C:\Users\user\Desktop\Web API Project\Core\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Web API Project\Core\Services.Abstractions\obj\Debug\net8.0\Services.E74F1EB6.Up2Date
+C:\Users\user\Desktop\Web API Project\Core\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.dll
+C:\Users\user\Desktop\Web API Project\Core\Services.Abstractions\obj\Debug\net8.0\refint\Services.Abstractions.dll
+C:\Users\user\Desktop\Web API Project\Core\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.pdb
+C:\Users\user\Desktop\Web API Project\Core\Services.Abstractions\obj\Debug\net8.0\ref\Services.Abstractions.dll
